@@ -1,0 +1,16 @@
+/*
+  Localizablea.strings
+  Tipsy
+
+  Created by JOse C. Hernandez on 13/09/20.
+  Copyright © 2020 The App Brewery. All rights reserved.
+*/
+
+//General
+"alert.title.OK" = "OK";
+"view.default.title" = "Tipsy";
+
+//Result
+"result.error.alert" = "Add a valid invoice";
+"result.error.person" = "add valid person";
+"result.subtitle" = "Split between %@ people, with %@ tip.";
